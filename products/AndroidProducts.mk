@@ -35,6 +35,7 @@ PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/mi439_419/aospa_mi439_419.mk \
     $(LOCAL_DIR)/miatoll/aospa_miatoll.mk \
     $(LOCAL_DIR)/mini5g/aospa_mini5g.mk \
+    $(LOCAL_DIR)/mondrian/aospa_mondrian.mk \
     $(LOCAL_DIR)/munch/aospa_munch.mk \
     $(LOCAL_DIR)/nuwa/aospa_nuwa.mk \
     $(LOCAL_DIR)/oneplus5/aospa_oneplus5.mk \
@@ -83,6 +84,8 @@ COMMON_LUNCH_CHOICES += \
     aospa_mi439_419-userdebug \
     aospa_miatoll-userdebug \
     aospa_mini5g-userdebug \
+    aospa_mondrian-userdebug \
+    aospa_mondrian-eng \
     aospa_munch-userdebug \
     aospa_nuwa-userdebug \
     aospa_oneplus5-userdebug \
